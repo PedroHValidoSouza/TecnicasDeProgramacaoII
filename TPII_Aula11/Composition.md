@@ -1,0 +1,4 @@
+## Padrão estrutural:
+### Composição (Composite)
+
+

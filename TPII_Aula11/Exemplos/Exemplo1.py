@@ -25,7 +25,6 @@ class Pasta(Item):
         self.itens.append(Item)
     
     def mostrar(self, nivel=0):
-
         for i in range(max(1, nivel)):
             self.Intnl += '  '
         print(F"{self.Intnl}↳ {self.nome}:")

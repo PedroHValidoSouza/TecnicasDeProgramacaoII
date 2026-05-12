@@ -40,3 +40,4 @@ print(player_1.exibir(20, 20))
 print(player_2.exibir(12, 30))
 print(player_3.exibir(24, 1))
 print(player_4.exibir(13, 50))
+#
